@@ -1,13 +1,15 @@
 #include <stdio.h>
-
+// CODIGO DE ALUMNO TEO B GOMEZ
+//GIT PERSONAL:
+//GIT GRUPAL (LIDER LOPEZ LUCAS):https://github.com/luvvas21/Trabajo-Practico-6to-2da-4to-grupo
 #define CM_PER_INCH 2.54
 
-// Funci髇 para convertir de cent韒etros a pulgadas
+// Funci贸n para convertir de cent铆metros a pulgadas
 float cm_a_pulgadas(float cm) {
     return cm / CM_PER_INCH;
 }
 
-// Funci髇 para convertir de pulgadas a cent韒etros
+// Funci贸n para convertir de pulgadas a cent铆metros
 float pulgadas_a_cm(float pulgadas) {
     return pulgadas * CM_PER_INCH;
 }
@@ -15,12 +17,12 @@ float pulgadas_a_cm(float pulgadas) {
 int main() {
     float cm, pulgadas;
     
-    // Ejemplo de uso: conversi髇 de cm a pulgadas
-    printf("Ingrese la cantidad en cent韒etros: ");
+    // Ejemplo de uso: conversi贸n de cm a pulgadas
+    printf("Ingrese la cantidad en cent铆metros: ");
     scanf("%f", &cm);
     printf("%.2f cm es igual a %.2f pulgadas.\n", cm, cm_a_pulgadas(cm));
     
-    // Ejemplo de uso: conversi髇 de pulgadas a cm
+    // Ejemplo de uso: conversi贸n de pulgadas a cm
     printf("Ingrese la cantidad en pulgadas: ");
     scanf("%f", &pulgadas);
     printf("%.2f pulgadas es igual a %.2f cm.\n", pulgadas, pulgadas_a_cm(pulgadas));
