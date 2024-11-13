@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// CODIGO DE LOPEZ LUCAS
+// CODIGO DE LOPEZ LUCAS y Pino Juana
 //GIT PERSONAL:https://github.com/luvvas21
 //GIT GRUPAL (López Lucas): 
 https://github.com/luvvas21/Trabajo-Practico-6to-2da-4to-grupo
