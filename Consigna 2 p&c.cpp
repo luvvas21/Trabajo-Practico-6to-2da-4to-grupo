@@ -1,6 +1,6 @@
 #include <stdio.h>
 // CODIGO DE ALUMNO TEO B GOMEZ
-//GIT PERSONAL:
+//GIT PERSONAL:https://github.com/RonnieAnne9/Cajon-de-G0m32
 //GIT GRUPAL (LIDER LOPEZ LUCAS):https://github.com/luvvas21/Trabajo-Practico-6to-2da-4to-grupo
 #define CM_PER_INCH 2.54
 
